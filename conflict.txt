@@ -1,1 +1,1 @@
-Learning git merge conflicts
+Github is interesting
